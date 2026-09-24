@@ -1,4 +1,4 @@
-# tinyStories small language model
+# tinystories small language model
 
 A small language model (SLM) with ~50M parameters trained from scratch on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset and served entirely in the browser using WebAssembly.
 
