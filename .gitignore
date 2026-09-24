@@ -1,0 +1,25 @@
+# Python / Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+
+# Large PyTorch Weights (keep these local)
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# macOS & System Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+
+# Local Test Logs
+*.log
